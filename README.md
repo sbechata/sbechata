@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbechata
 - 📚 I'm an IT student
-- 👀 I’m interested in cybersecurity, OSINT, AI and data
+- 👀 I’m interested in cybersecurity and OSINT
 - 🌱 I’m currently improving my python skills !
 
 <!---
